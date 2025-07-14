@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace AryanDateTime.Enums
+namespace SlavicAryanCalendarSystem.Enums
 {
     /// <summary>
     /// Aryan months (Месяцы арийского календаря)

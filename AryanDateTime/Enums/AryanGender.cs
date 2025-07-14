@@ -1,4 +1,4 @@
-﻿namespace AryanDateTime.Enums
+﻿namespace SlavicAryanCalendarSystem.Enums
 {
     /// <summary>
     /// Начало

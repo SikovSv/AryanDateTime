@@ -1,9 +1,9 @@
-﻿using AryanDateTime.Enums;
+﻿using SlavicAryanCalendarSystem.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AryanDateTime
+namespace SlavicAryanCalendarSystem
 {
     /// <summary>
     /// Арийская дата

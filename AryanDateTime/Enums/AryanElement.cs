@@ -1,4 +1,4 @@
-﻿namespace AryanDateTime.Enums
+﻿namespace SlavicAryanCalendarSystem.Enums
 {
     /// <summary>
     /// Aryan elements classification (Стихии в арийской классификации)

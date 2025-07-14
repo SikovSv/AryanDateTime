@@ -1,4 +1,4 @@
-﻿namespace AryanDateTime.Enums
+﻿namespace SlavicAryanCalendarSystem.Enums
 {
     /// <summary>
     /// Чертоги Сварожьего Круга (сектора небесной сферы в славяно-арийской астрологии)
