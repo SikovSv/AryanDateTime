@@ -6,9 +6,10 @@
     <PackageId>AryanDateTime</PackageId>
     <Version>1.0.0</Version>
     <Authors>Sergey Sikov</Authors>
-    <Description>Описание вашей библиотеки</Description>
-    <PackageTags>tag1, tag2</PackageTags>
-    <RepositoryUrl>https://github.com/your/repo</RepositoryUrl>
+    <Description>Библиотека для работы со Славяно-Арийским календарём. Позволяет конвертировать даты между Григорианским и Славяно-Арийским календарями, получать информацию о чертогах, стихиях и других атрибутах древней календарной системы.</Description>
+    <PackageTags>slavic;calendar;aryan;date;time;converter</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/SikovSv/AryanDateTime</RepositoryUrl>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
